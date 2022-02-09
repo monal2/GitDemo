@@ -1,0 +1,5 @@
+17:47:44.893 [TestNG-tests-4] INFO  resources.Base - Restricted User
+17:47:47.003 [TestNG-tests-4] INFO  resources.Base - Non restricted User
+17:47:47.191 [AsyncHttpClient-1-7] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-7
+17:47:47.191 [AsyncHttpClient-1-6] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-6
+17:47:47.192 [AsyncHttpClient-1-8] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-8
